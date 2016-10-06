@@ -1,0 +1,40 @@
+{
+  "name": "watson-bot",
+  "version": "1.0.0",
+  "description": "Back-End para comunicar una ap con el servicio de conversación de IBM",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodrigo2604/watson-bot.git"
+  },
+  "keywords": [
+    "nodejs",
+    "altran",
+    "ihealth",
+    "i+D"
+  ],
+  "author": "altran",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.7.1",
+    "express": "^4.14.0",
+    "extend": "^3.0.0",
+    "log4js": "^0.6.37",
+    "moment": "^2.14.1",
+    "q": "^1.4.1",
+    "watson-developer-cloud": "^2.4.5"
+  },
+  "engines": {
+    "node": "4.4.0",
+    "npm": "3.9.5"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-apidoc": "0.2.4",
+    "nodemon": "^1.10.2"
+  }
+}
