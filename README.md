@@ -1,4 +1,2 @@
-Watson-bot
-==========
-
-Bot desarrolado con la plataforma de IBM, Watson, para la aplicación de Wellness Keeper 
+# watson-bot
+back para comunicar cualquier app con el servicio de conversación de IBM
